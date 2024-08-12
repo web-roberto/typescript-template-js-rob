@@ -8,6 +8,9 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
-
+  "license": "ISC",
+  "dependencies": {
+    "@types/webidl-conversions": "^7.0.3",
+    "@types/whatwg-url": "^11.0.5"
+  }
 }
